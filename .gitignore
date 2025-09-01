@@ -1,0 +1,19 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (optional, uncomment if you don't want to track CSVs)
+# games_data.csv
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
